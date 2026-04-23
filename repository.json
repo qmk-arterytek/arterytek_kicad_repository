@@ -10,9 +10,9 @@
     },
     "name": "qmk-arterytek KiCad repository",
     "packages": {
-        "sha256": "a0b7e4c338723643e1bb31db951daddb4e2e373d22cfc479a3e00c658f4006d1",
-        "update_time_utc": "2026-04-19 17:57:00",
-        "update_timestamp": 1776621420,
+        "sha256": "14c211d5ce95fac93e0ad0225ed65ef90925a8e0682be4d0960e6e694e722c83",
+        "update_time_utc": "2026-04-23 17:03:13",
+        "update_timestamp": 1776963793,
         "url": "https://github.com/qmk-arterytek/arterytek-kicad-repository/raw/main/packages.json"
     }
 }

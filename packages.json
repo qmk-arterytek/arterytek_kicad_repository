@@ -36,6 +36,15 @@
                     "download_size": 511563,
                     "download_url": "https://github.com/qmk-arterytek/arterytek_kicad_library/releases/download/2026.04.20/KiCAD-PCM-2026.04.20.zip",
                     "install_size": 5080084
+                },
+                {
+                    "version": "2026.04.24",
+                    "status": "testing",
+                    "kicad_version": "8.0",
+                    "download_sha256": "5879a4f83146cebb4075b3b45c148933584e8bebf134f67e647d39f3bdd63938",
+                    "download_size": 531357,
+                    "download_url": "https://github.com/qmk-arterytek/arterytek_kicad_library/releases/download/2026.04.24/KiCAD-PCM-2026.04.24.zip",
+                    "install_size": 5487267
                 }
             ]
         }
